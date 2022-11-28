@@ -1,0 +1,21 @@
+body {
+    background-color: darkseagreen;
+}
+
+.game__wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+}
+
+.cards__container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}

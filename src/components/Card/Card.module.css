@@ -1,0 +1,23 @@
+.card__container {
+    padding: 10px;
+}
+
+.card__container img {
+    border-radius: 15px;
+}
+
+.btn__container {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.btn__container button {
+    margin-bottom: 5px;
+    background-color: cadetblue;
+    border: none;
+    border-radius: 15px;
+    padding: 7px 10px;
+    color: #ffffff;
+    cursor: pointer;
+}
